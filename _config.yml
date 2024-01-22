@@ -1,0 +1,51 @@
+# Basic Information 
+title: Hengjia Li
+position: Ph.D. Student
+affiliation: Zhejiang University
+affiliation_link: https://zju.edu.cn/
+# affiliation_logo: ./assets/img/NUS_coat_of_arms.svg
+email: lihengjia98 (at) gmail.com
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: hengjia li, Hengjia Li, hengjia
+description: Hengjia Li is a Ph.D. student at Zhejiang University.
+canonical: https://hengjiali.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=FstE4t0AAAAJ&hl=zh-TW
+# cv_link: None
+github_link: https://github.com/EchoPluto
+linkedin: https://www.linkedin.com/in/hengjia-li-6235a42a2/
+# twitter: None
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/hengjia.jpg
+# favicon: ./assets/img/NUS_coat_of_arms.svg
+# favicon_dark: ./assets/img/NUS_coat_of_arms.svg
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

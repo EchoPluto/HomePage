@@ -1,0 +1,38 @@
+main:
+
+  - title: "Few-shot Hybrid Domain Adaptation of Image Generators"
+    authors: <strong>Hengjia Li</strong>, Yang Liu, Linxuan Xia, Yuqi Lin, Tu Zheng, Zheng Yang, Wenxiao Wang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He 
+    conference: ICLR, 2024.
+    page: https://echopluto.github.io/FHDA-project/
+    arxiv: https://arxiv.org/abs/2310.19378
+    code: https://github.com/EchoPluto/FHDA
+    github_stars: EchoPluto/FHDA
+    image: ./assets/teaser/HDA.jpg
+
+  - title: "Local Conditional Controlling for Text-to-Image Diffusion Models"
+    authors: Yibo Zhao, Liang Peng, Yang Yang, Zekai Luo, <strong>Hengjia Li</strong>, Yao Chen, Wei Zhao, Wei Liu, Boxi Wu
+    conference: arXiv, 2023.
+    arxiv: https://arxiv.org/abs/2312.08768
+    code: https://github.com/YibooZhao/Local-Control
+    github_stars: YibooZhao/Local-Control
+    image: ./assets/teaser/LocalControl.png
+
+  - title: "TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training"
+    authors: Yuqi Lin, Minghao Chen, Kaipeng Zhang, <strong>Hengjia Li</strong>, Mingming Li, Zheng Yang, Dongqin Lv, Binbin Lin, Haifeng Liu, Deng Cai
+    conference: AAAI, 2024.
+    arxiv: https://arxiv.org/abs/2312.12828
+    code: https://github.com/linyq2117/TagCLIP
+    github_stars: linyq2117/TagCLIP
+    image: ./assets/teaser/TagCLIP.png
+
+  - title: "APPT: Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding"
+    authors: <strong>Hengjia Li</strong>, Tu Zheng, Zhihao Chi, Zheng Yang, Wenxiao Wang, Boxi Wu, Binbin Lin, Deng Cai
+    conference: arXiv, 2023.
+    arxiv: https://arxiv.org/abs/2303.17815
+    image: ./assets/teaser/APPT.png
+
+  - title: "NormKD: Normalized Logits for Knowledge Distillation"
+    authors: Zhihao Chi, Tu Zheng, <strong>Hengjia Li</strong>, Zheng Yang, Boxi Wu, Binbin Lin, Deng Cai
+    conference: arXiv, 2023.
+    arxiv: https://arxiv.org/abs/2308.00520
+    image: ./assets/teaser/NormKD.png
