@@ -24,7 +24,7 @@ main:
     arxiv: https://arxiv.org/abs/2401.12596
     # code: https://github.com/EchoPluto/FHDA
     # github_stars: EchoPluto/FHDA
-    image: ./assets/teaser/UniHDA.jpg
+    image: ./assets/teaser/UniHDA.png
     
   - title: "Few-shot Hybrid Domain Adaptation of Image Generators"
     authors: <strong>Hengjia Li</strong>, Yang Liu, Linxuan Xia, Yuqi Lin, Tu Zheng, Zheng Yang, Wenxiao Wang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He 
