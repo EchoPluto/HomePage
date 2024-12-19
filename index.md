@@ -14,4 +14,4 @@ My research interests include computer vision and deep learning, with a recent f
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
