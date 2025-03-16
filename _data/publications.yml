@@ -8,6 +8,15 @@ main:
   #   github_stars: EchoPluto/PersonalVideo
   #   image: ./assets/teaser/PersonalVideo.png
 
+  - title: "MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization"
+    authors: <strong>Hengjia Li</strong>, Lifan Jiang, Xi Xiao, Tianyang Wang, Hongwei Yi, Boxi Wu, Deng Cai
+    conference: arXiv, 2025.
+    # page: https://personalvideo.github.io/
+    # arxiv: https://arxiv.org/abs/2411.17048
+    # code: https://github.com/EchoPluto/PersonalVideo
+    # github_stars: EchoPluto/PersonalVideo
+    image: ./assets/teaser/MagicID.png
+
   - title: "PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation"
     authors: <strong>Hengjia Li</strong>, Haonan Qiu, Shiwei Zhang, Xiang Wang, Yujie Wei, Zekun Li, Yingya Zhang, Boxi Wu, Deng Cai
     conference: arXiv, 2024.
@@ -15,7 +24,7 @@ main:
     arxiv: https://arxiv.org/abs/2411.17048
     code: https://github.com/EchoPluto/PersonalVideo
     github_stars: EchoPluto/PersonalVideo
-    image: ./assets/teaser/PV.png
+    image: ./assets/teaser/PersonalVideo.png
 
   - title: "UniHDA: A Unified and Versatile Framework for Multi-Modal Hybrid Domain Adaptation"
     authors: <strong>Hengjia Li</strong>, Yang Liu, Yuqi Lin, Zhanwei Zhang, Yibo Zhao, weihang Pan, Tu Zheng, Zheng Yang, Yuchun Jiang, Boxi Wu, Deng Cai
