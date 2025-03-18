@@ -15,7 +15,7 @@ main:
     arxiv: https://arxiv.org/abs/2411.17048
     code: https://github.com/EchoPluto/PersonalVideo
     github_stars: EchoPluto/PersonalVideo
-    image: ./assets/teaser/PV.png
+    image: ./assets/teaser/PersonalVideo.png
 
   - title: "GCA-3D: Towards Generalized and Consistent Domain Adaptation of 3D Generators."
     authors: <strong>Hengjia Li</strong>, Yang Liu, Yibo Zhao, Haoran Cheng, Yang Yang, Linxuan Xia, Zekai Luo, Qibo Qiu, Boxi Wu, Tu Zheng, Zheng Yang, Deng Cai
