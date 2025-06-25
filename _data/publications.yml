@@ -1,7 +1,7 @@
 main:
   - title: "MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization"
     authors: <strong>Hengjia Li</strong>, Lifan Jiang, Xi Xiao, Tianyang Wang, Hongwei Yi, Boxi Wu, Deng Cai
-    conference: arXiv, 2025.
+    conference: ICCV, 2025.
     page: https://echopluto.github.io/MagicID-project/
     arxiv: https://arxiv.org/abs/2503.12689
     code: https://github.com/EchoPluto/MagicID
@@ -10,7 +10,7 @@ main:
 
   - title: "PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation"
     authors: <strong>Hengjia Li</strong>, Haonan Qiu, Shiwei Zhang, Xiang Wang, Yujie Wei, Zekun Li, Yingya Zhang, Boxi Wu, Deng Cai
-    conference: arXiv, 2024.
+    conference: ICCV, 2025.
     page: https://personalvideo.github.io/
     arxiv: https://arxiv.org/abs/2411.17048
     code: https://github.com/EchoPluto/PersonalVideo
